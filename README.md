@@ -5,7 +5,7 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
   
   
-Hello, I'm a Brazilian, I'm 15 years old and I have the dream of being a programmer! 
+Hello, I'm a Brazilian, I'm 14 years old and I have the dream of being a programmer! 
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuaranaHacking&show_icons=true&theme=radical)
