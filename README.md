@@ -1,4 +1,4 @@
-### Olá amiguinho uwu 
+### Olá, você é lammer? SAIA DO MEU PERFIL AGORA
 
 
 <details>
