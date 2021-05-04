@@ -2,7 +2,7 @@
 
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
+  <summary> <b> Clique aqui ver mais sobre mim! </b> <i>(clique pra expandir!)</i> </summary>
   
   
 Hello, I'm a Brazilian, I'm 14 years old and I have the dream of being a programmer! 
