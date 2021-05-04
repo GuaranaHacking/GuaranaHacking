@@ -5,7 +5,7 @@
   <summary> <b> Clique aqui ver mais sobre mim! </b> <i>(clique pra expandir!)</i> </summary>
   
   
-Hello, I'm a Brazilian, I'm 14 years old and I have the dream of being a programmer! 
+Eai, bão? Sou um adolescente que gosta de programação e eu tenho o sonho disso virar minha vida, e espanco lammer uwu
   
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuaranaHacking&show_icons=true&theme=radical)
